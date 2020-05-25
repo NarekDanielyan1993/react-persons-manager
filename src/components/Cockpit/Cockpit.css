@@ -1,0 +1,19 @@
+.Cockpit button:hover {
+    color: #b272ddc4;
+    cursor: pointer;
+}
+
+.Cockpit button {
+    padding: 10px;
+    border:  1px solid red;
+    background-color: chocolate;
+    color: black;
+}
+
+.green {
+    background-color: green !important;
+}
+
+.yellow {
+    background-color: yellow;
+}
